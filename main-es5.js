@@ -151,7 +151,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
     /* harmony default export */
 
 
-    __webpack_exports__["default"] = "<footer class=\"text-center\">\n    <div class=\"container\">\n\n        <!-- Logo -->\n        <a class=\"logo\" href=\"#\">\n            <img src=\"./../../../assets/images/header-logo.png\" alt=\"logo\">          \n        </a>\n        \n        <div class=\"social\">\n            <a href=\"#0\"><i class=\"icofont icofont-social-facebook\"></i></a>\n            <a href=\"#0\"><i class=\"icofont icofont-social-twitter\"></i></a>\n            <a href=\"#0\"><i class=\"icofont icofont-social-instagram\"></i></a>\n            <a href=\"#0\"><i class=\"icofont icofont-brand-linkedin\"></i></a>\n        </div>\n\n        <p>© 2018 UI-ThemeZ. All Rights Reserved.</p>\n\n    </div>\n</footer>";
+    __webpack_exports__["default"] = "<footer class=\"text-center\">\n    <div class=\"container\">\n\n        <!-- Logo -->\n        <a class=\"logo\" href=\"#\">\n            <img src=\"./../../../assets/images/header-logo.png\" alt=\"logo\">          \n        </a>\n        \n        <div class=\"social\">\n            <a href=\"#0\"><i class=\"icofont icofont-social-facebook\"></i></a>\n            <a href=\"#0\"><i class=\"icofont icofont-social-twitter\"></i></a>\n            <a href=\"#0\"><i class=\"icofont icofont-social-instagram\"></i></a>\n            <a href=\"#0\"><i class=\"icofont icofont-brand-linkedin\"></i></a>\n        </div>\n\n        <p>© 2020 Galxayeuro. All Rights Reserved.</p>\n\n    </div>\n</footer>";
     /***/
   },
 
